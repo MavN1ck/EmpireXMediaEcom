@@ -1,0 +1,10 @@
+.hoverEffect:hover {
+  background-color: orange;
+}
+* {
+  padding: 0%;
+}
+#yellowstrip {
+  background-color: orange;
+  height: 40px;
+}
